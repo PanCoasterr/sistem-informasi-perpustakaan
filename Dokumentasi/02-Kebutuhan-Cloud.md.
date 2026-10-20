@@ -1,0 +1,24 @@
+# Kebutuhan Cloud Computing Sistem Informasi Perpustakaan
+
+## 1. Tujuan Penggunaan Cloud
+Cloud computing digunakan untuk mendukung penyimpanan dan akses data Sistem Informasi Perpustakaan secara daring.
+
+## 2. Kebutuhan Layanan Cloud
+- Cloud storage untuk menyimpan dokumen dan data.
+- Database untuk mengelola data buku, anggota, dan transaksi.
+- Server aplikasi untuk menjalankan aplikasi perpustakaan.
+- Keamanan untuk melindungi data dan mengatur hak akses.
+- Backup untuk menyediakan salinan data apabila terjadi kehilangan atau kerusakan.
+
+## 3. Manfaat Cloud Computing
+1. Data dapat diakses melalui perangkat yang terhubung ke internet.
+2. Dokumen lebih mudah dibagikan dan dikelola.
+3. Kapasitas penyimpanan dapat ditingkatkan sesuai kebutuhan.
+4. Backup membantu mengurangi risiko kehilangan data.
+5. Sistem tidak hanya bergantung pada satu komputer lokal.
+
+## 4. Risiko dan Pengamanan
+Risiko penggunaan cloud meliputi kebocoran data, gangguan internet, dan akses tidak sah. Risiko tersebut dapat dikurangi dengan penggunaan kata sandi yang kuat, pembatasan hak akses, dan backup berkala.
+
+## 5. Kesimpulan
+Cloud computing membantu meningkatkan fleksibilitas dan efisiensi pengelolaan Sistem Informasi Perpustakaan. Pemilihan layanan perlu disesuaikan dengan kebutuhan, keamanan, dan anggaran perpustakaan.
