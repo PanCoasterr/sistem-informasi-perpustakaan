@@ -24,3 +24,4 @@ Folder tersebut berisi:
 
 ## Penggunaan GitHub
 GitHub digunakan untuk menyimpan dokumentasi secara daring, mengelompokkan file, dan mencatat riwayat perubahan dokumen melalui fitur commit.
+Dokumentasi diperbarui pada 20 Oktober 2026 untuk melengkapi pengelolaan Sistem Informasi Perpustakaan
